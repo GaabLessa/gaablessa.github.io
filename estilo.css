@@ -1,5 +1,27 @@
-h1 {
-    color: blueviolet;
-    background-color: black;
+body {
+    color: darkviolet;
+    background-color: rgb(0, 0, 0);
+    border: 4px;
     
+}
+h1 {font: size 8px;
+    color: rgb(27, 245, 8) ;}
+
+a {color: rgb(81, 255, 0);}
+button {
+    color: white;
+    background-color:darkorchid;
+    border: 5px solid;
+}
+input {
+    color: white;
+    background-color: darkviolet
+    ;}
+
+img {border: solid 5px;
+}
+
+p {border: solid 5px;
+    border-color: blueviolet;
+    color: white;   
 }
