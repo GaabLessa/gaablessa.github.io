@@ -9,9 +9,13 @@ h1 {font: size 8px;
 
 a {color: rgb(81, 255, 0);}
 button {
+    background-color: black;
     color: white;
-    background-color:darkorchid;
-    border: 5px solid;
+    border: solid 2px;
+    border-color: darkviolet;
+    padding: 20px 20px;
+    cursor: pointer;
+    font-size: 16px;
 }
 input {
     color: white;
@@ -23,5 +27,13 @@ img {border: solid 5px;
 
 p {border: solid 5px;
     border-color: blueviolet;
+    color: white;   
+}
+li {border: solid 1px;
+    border-color: rgb(143, 44, 235);
+    color: white;   
+}
+ul {border: solid 5px;
+    border-color: rgb(250, 249, 250);
     color: white;   
 }
