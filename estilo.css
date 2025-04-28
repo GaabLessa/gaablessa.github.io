@@ -130,7 +130,7 @@ ul {border: solid 5px;
     text-align: center;
 }
 /* Responsivo para celular */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
     .personagens > div {
         flex: 1 1 100%; /* ocupa 100% em telas pequenas */
     }
